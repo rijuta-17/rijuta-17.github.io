@@ -1,5 +1,4 @@
 # rijuta-17.github.io
-<!DOCTYPE html>
 <html lang="en-US">
 
 <head>
